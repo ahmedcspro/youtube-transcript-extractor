@@ -92,34 +92,5 @@ youtube-transcript-extractor/
 └── README.md
 ```
 
-## 🧠 What I Learned
-
-Building this project helped me practice:
-
-* Python functions and exception handling
-* Regular expressions
-* URL parsing and input validation
-* Working with third-party Python libraries
-* Processing structured API/library responses
-* Converting multiple data segments into a single text output
-
-## 🔮 Future Improvements
-
-Planned improvements include:
-
-* Allow users to enter the YouTube URL directly through the terminal
-* Add transcript language selection
-* Save extracted transcripts as `.txt` or `.md` files
-* Improve error messages for unavailable transcripts
-* Add automated tests
-* Build a simple web interface
-
-## 📌 Project Status
-
-**Current status:** Functional prototype
-
-The core transcript extraction functionality is implemented. Future versions will focus on improving usability, testing, and adding a user-friendly interface.
-
----
 
 **Built with Python**
